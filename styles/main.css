@@ -42,14 +42,15 @@ p{
     color: white;
     padding-left: 50px;
     text-align:center;
+    width: 55%;
+    margin-left: 20%;
    
     
 }
-.card-img{
-    margin-top: 10%;
-    padding-left: 50px;
-    width: 95%;
-    height:30%;
+.card-img-top{
+  
+    margin-right: 90px;
+    width: 100%;
   
 }
 
@@ -64,6 +65,15 @@ p{
     color: black;
 
 
+}
+
+.btn{
+    background-color: #93827f;
+    color: white;
+}
+
+.btn :hover{
+    color: #12263a;
 }
 
 
